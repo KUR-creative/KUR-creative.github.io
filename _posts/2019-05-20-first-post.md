@@ -15,6 +15,6 @@ clojure
 
 => PPAP
 ```
-Imported from [blog]< https://blog.naver.com/dloere4/221541892489 >
+Imported from [blog]<https://blog.naver.com/rhdnfka94>
 \
 what now?
